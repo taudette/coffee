@@ -158,3 +158,11 @@ hr.divider {
   margin-right: 15px;
 }
 
+.btn-price {
+    color: white;
+    background-color: #333942;
+    border-radius: 0;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
